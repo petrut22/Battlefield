@@ -1,4 +1,4 @@
-# Battlefield
+# Battleship
 A version of the game Battlefield made in C using Ncurses library
 Timp de implementare: 2 saptamani
 
